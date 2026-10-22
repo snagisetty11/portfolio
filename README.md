@@ -1,16 +1,46 @@
-# React + Vite
+# Personal Portfolio — Srihan Nagisetty
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive personal portfolio built with React and Vite to showcase my background, experience, and software projects.
 
-Currently, two official plugins are available:
+## Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://snagisetty11.github.io/portfolio/
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Home, Experience, Projects, and Contact pages
+- React Router navigation
+- Three project detail pages
+- Interactive project search
+- Light and dark mode with localStorage persistence
+- Responsive design for desktop and mobile
 
-## Expanding the ESLint configuration
+## Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### AFO Website
+Collaborative website project involving user interface development and mathematical functionality. I contributed to portions of the UI and mathematical logic.
+
+### Study Planner Application
+Object-oriented programming project for organizing assignments and tasks. I worked on the calendar functionality, allowing users to add and remove tasks.
+
+### Grade Calculator
+Independently developed C++ application for calculating and organizing student grades.
+
+## Technologies
+
+- React
+- JavaScript
+- HTML and CSS
+- Vite
+- React Router
+- Git and GitHub
+
+## Deployment
+
+The portfolio is deployed using GitHub Pages.
+
+## Author
+
+Srihan Nagisetty
+
+GitHub: https://github.com/snagisetty11
