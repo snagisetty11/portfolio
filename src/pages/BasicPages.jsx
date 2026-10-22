@@ -72,8 +72,14 @@ export function Contact() {
       </p>
 
       <p>
-        My professional GitHub profile will be added
-        before publication.
+        Visit my GitHub profile:{" "}
+        <a
+          href="https://github.com/snagisetty11"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          github.com/snagisetty11
+        </a>
       </p>
     </section>
   );
